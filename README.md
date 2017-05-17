@@ -7,7 +7,7 @@
 
 [![NPM](https://nodei.co/npm/node-schedule.png?downloads=true)](https://nodei.co/npm/node-schedule/)
 
-AAAAAAAAAAAAAAA- Node Schedule is a flexible cron-like and not-cron-like job scheduler for Node.js.
+Node Schedule is a flexible cron-like and not-cron-like job scheduler for Node.js.
 It allows you to schedule jobs (arbitrary functions) for execution at
 specific dates, with optional recurrence rules. It only uses a single timer
 at any given time (rather than reevaluating upcoming jobs every second/minute).
