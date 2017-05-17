@@ -24,13 +24,13 @@
     "url": "https://github.com/node-schedule/node-schedule.git"
   },
   "dependencies": {
-    "cron-parser": "1.1.0",
+    "cron-parser": "^2.4.0",
     "long-timeout": "0.1.1",
     "sorted-array-functions": "^1.0.0"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
-    "eslint": "^0.15.1",
+    "eslint": "latest",
     "istanbul": "^0.4.5",
     "nodeunit": "^0.10.2",
     "sinon": "^1.14.1"
